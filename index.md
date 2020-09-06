@@ -1,2 +1,6 @@
 
-# ka2taka playground index
+# ka2taka playground
+
+## Sphinx
+### Setup
+### How to use
